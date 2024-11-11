@@ -3,4 +3,4 @@ This repository contains my solution for the NoSQL Challenge, where I analyze th
 
 **Project Setup**
 Create Repository: This project is housed in a new repository named nosql-challenge.
-Clone Repository: Clone this repository to your local machine for setup.
+Clone Repository: Clone this repository to your local machine for setup: https://github.com/CaptDon71/nosql-challenge.git
